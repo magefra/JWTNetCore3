@@ -7,6 +7,7 @@ Web api token based authentication example using asp net core 3.0
 Microsoft.EntityFrameworkCore.SqlServer
 Microsoft.EntityFrameworkCore.Design
 Microsoft.EntityFrameworkCore.Tools
+Microsoft.AspNetCore.Mvc.NewtonsoftJson -Version 3.0.0
 
  ```
 
