@@ -11,4 +11,11 @@ Microsoft.EntityFrameworkCore.Design
 
 # Empezar
 
-Tenemos que crear la Base de datos llamada JWTAuthDB
+Tenemos que crear la Base de datos llamada JWTAuthDB,
+
+despues hacer las migraciones.
+
+  ```
+ add-migration
+ update-database
+ ```
